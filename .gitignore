@@ -1,24 +1,4 @@
-# Python
 .venv/
 venv/
-__pycache__/
-*.pyc
-
-# Node
 node_modules/
-build/
-
-# Env
 .env
-
-# ML models
-models/
-models*/
-*.safetensors
-*.bin
-*.pt
-*.pth
-
-# OS
-.DS_Store
-Thumbs.db
